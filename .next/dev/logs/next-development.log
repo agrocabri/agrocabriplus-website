@@ -97,3 +97,9 @@
 {"timestamp":"10:11:34.313","source":"Server","level":"ERROR","message":"⨯ PageNotFoundError: Cannot find module for page: route not found /_not-found/page"}
 {"timestamp":"10:12:21.024","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/dario/agrocabriplus/app'"}
 {"timestamp":"10:12:21.026","source":"Server","level":"ERROR","message":"Error: ENOENT: no such file or directory, scandir '/Users/dario/agrocabriplus/app'"}
+{"timestamp":"10:38:30.291","source":"Server","level":"LOG","message":"✓ Compiled in 829ms"}
+{"timestamp":"10:38:30.359","source":"Server","level":"LOG","message":"✓ Compiled in 2ms"}
+{"timestamp":"10:38:30.770","source":"Server","level":"LOG","message":"✓ Compiled in 94ms"}
+{"timestamp":"10:38:30.845","source":"Server","level":"LOG","message":"✓ Compiled in 86ms"}
+{"timestamp":"10:38:31.500","source":"Server","level":"LOG","message":"✓ Compiled in 655ms"}
+{"timestamp":"10:38:32.109","source":"Server","level":"LOG","message":"✓ Compiled in 594ms"}
